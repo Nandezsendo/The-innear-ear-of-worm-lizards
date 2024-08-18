@@ -1,0 +1,4 @@
+#NEXUS
+begin trees;
+	tree Longrich_tree = [&R] (((((((((Amphisbaena_caeca:2.0,(Amphisbaena_kingii:1.0,Amphisbaena_polystegum:1.0):1.0):1.0,((Amphisbaena_alba:1.0,Amphisbaena_vermicularis:1.0):1.0,Amphisbaena_fuliginosa:2.0):1.0):1.0,Geocalamus_acutus:4.0):1.0,(Zygaspis_vandami:2.0,(Zygaspis_nigra:1.0,Zygaspis_quadrifrons:1.0):1.0):3.0):1.0,(Trogonophis_wiegmanni:1.0,Diplometopon_zarudnyi:1.0):5.0):1.0,Cadea_blanoides:7.0):1.0,(Blanus_cinereus:2.0,(Bipes_canaliculatus:1.0,Bipes_biporus:1.0):1.0):6.0):1.0,Rhineura_floridana:9.0):1.0,Latastia_longicaudata:10.0);
+end;
